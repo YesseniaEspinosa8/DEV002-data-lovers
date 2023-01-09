@@ -52,6 +52,7 @@ Definición de Terminado:
 [![prototipo-alta-fidelidad.jpg](https://i.postimg.cc/Bns1z1D5/prototipo-alta-fidelidad.jpg)](https://postimg.cc/4mLd7yWn)
 
 **Visualizar**
+
 Yo **Como** usuaria **Quiero** visualizar los capitulos de la serie **Para** verlos por temporadas.
 
 Criterios de Aceptaciòn:
@@ -68,8 +69,7 @@ Definición de Terminado:
 
 [![prototipo-2.jpg](https://i.postimg.cc/0jzT1ft1/prototipo-2.jpg)](https://postimg.cc/XB0HwwSs)
 
-[![prototipo-desktop-2.jpg](https://i.postimg.cc/y65qXMd1/prototipo-desktop-2.jpg)](https://postimg.cc/
-XXwDnDdm)
+[![prototipo-desktop-2.jpg](https://i.postimg.cc/y65qXMd1/prototipo-desktop-2.jpg)](https://postimg.ccXXwDnDdm)
 
 **Prototipo de Alta Fidelidad**
 
@@ -95,13 +95,16 @@ Definiciòn de terminado:
 [![prototipo-desktop-3.jpg](https://i.postimg.cc/d1xf6CJH/prototipo-desktop-3.jpg)](https://postimg.cc/tZFDCYZW)
 
 **Prototipo de Alta Fidelidad**
-
+[![protop-3-smartphone.jpg](https://i.postimg.cc/7hhtzJWr/protop-3-smartphone.jpg)](https://postimg.cc/1VxKhXSv)
 
 **Calculo**
-Yo **Como** usuaria **Quiero** calcular la cantidad de episodios **Para** saber en cuantos episodios sale cada personaje.
+
+Yo **Como** usuaria **Quiero** calcular la cantidad de episodios **Para** saber en cuantos episodios salen los personajes principales.
 
 Criterios de Aceptaciòn:
-1. 
+1. Que el calculo funcione
+2. Que se desplegue una lista de episodios en donde aparece el personaje
+3. Que se reproduzca el episodio seleccionado
 
 
 Definiciòn de terminado:
