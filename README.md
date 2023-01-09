@@ -47,7 +47,9 @@ Definiciòn de terminado:
 [![prototipo-desktop-3.jpg](https://i.postimg.cc/d1xf6CJH/prototipo-desktop-3.jpg)](https://postimg.cc/tZFDCYZW)
 
 **Prototipo de Alta Fidelidad**
+
 [![protop-3-smartphone.jpg](https://i.postimg.cc/7hhtzJWr/protop-3-smartphone.jpg)](https://postimg.cc/1VxKhXSv)
+
 
 
 **Visualizar**
