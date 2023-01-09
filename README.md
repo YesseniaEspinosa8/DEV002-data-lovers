@@ -26,30 +26,29 @@ Esta aplicacion web sera muy ùtil para los usuarios ya que les permitirà visua
 
 ## Historias de Usuario
 
-**Ordenar**
+**Filtrar**
 
-Yo **como** usuaria **quiero** ordenar a los personajes de manera alfabetica **para** verlos de  A-> y Z-A
+Yo **Como** usuaria **Quiero** filtrar la informaciòn relevante de los personajes, **Para** tener màs informaciòn de ellos.
 
-Criterios de Aceptación:
-1. Se muestran todos los personajes
-2. Que la informacion de los personajes sea la correcta y actualizada
-3. Que de acuerdo al nombre del personaje se ordene de A-> y Z-A
+Criterios de Aceptaciòn:
+1. Que se muestran todos los personajes
+2. Que se muestren todos los episodios
+3. Que la informaciòn de los personajes sea la correcta y actualizada y que los episodios se muestren por temporada
 
-Definición de Terminado:
+Definiciòn de terminado:
 1. Que el codigo este subido a Github
 2. El diseño debe ser responsive
-3. La funcion de ordenar debe tener su test
+3. La funcion de filtrar debe tener su test
 
 **Prototipo de baja fidelidad**
 
-[![prototipo-1.jpg](https://i.postimg.cc/28bDszJL/prototipo-1.jpg)](https://postimg.cc/qzTSndpp)
+[![prototipo-3.jpg](https://i.postimg.cc/y84w20c2/prototipo-3.jpg)](https://postimg.cc/YhRnWGXx)
 
-
-[![prototipo-desktop-1.jpg](https://i.postimg.cc/W4jcq040/prototipo-desktop-1.jpg)](https://postimg.cc/G4M5Z8Gp)
+[![prototipo-desktop-3.jpg](https://i.postimg.cc/d1xf6CJH/prototipo-desktop-3.jpg)](https://postimg.cc/tZFDCYZW)
 
 **Prototipo de Alta Fidelidad**
+[![protop-3-smartphone.jpg](https://i.postimg.cc/7hhtzJWr/protop-3-smartphone.jpg)](https://postimg.cc/1VxKhXSv)
 
-[![prototipo-alta-fidelidad.jpg](https://i.postimg.cc/Bns1z1D5/prototipo-alta-fidelidad.jpg)](https://postimg.cc/4mLd7yWn)
 
 **Visualizar**
 
@@ -75,27 +74,33 @@ Definición de Terminado:
 
 [![protptipo-2-smartphone.jpg](https://i.postimg.cc/Hk1r0wS4/protptipo-2-smartphone.jpg)](https://postimg.cc/WhSpTkch)
 
-**Filtrar**
 
-Yo **Como** usuaria **Quiero** filtrar la informaciòn relevante de los personajes, **Para** tener màs informaciòn de ellos.
+**Ordenar**
 
-Criterios de Aceptaciòn:
-1. Que se muestran todos los personajes
-2. Que se muestren todos los episodios
-3. Que la informaciòn de los personajes sea la correcta y actualizada y que los episodios se muestren por temporada
+Yo **como** usuaria **quiero** ordenar a los personajes de manera alfabetica **para** verlos de  A-> y Z-A
 
-Definiciòn de terminado:
+Criterios de Aceptación:
+1. Se muestran todos los personajes
+2. Que la informacion de los personajes sea la correcta y actualizada
+3. Que de acuerdo al nombre del personaje se ordene de A-> y Z-A
+
+Definición de Terminado:
 1. Que el codigo este subido a Github
 2. El diseño debe ser responsive
-3. La funcion de filtrar debe tener su test
+3. La funcion de ordenar debe tener su test
 
 **Prototipo de baja fidelidad**
 
-[![prototipo-3.jpg](https://i.postimg.cc/y84w20c2/prototipo-3.jpg)](https://postimg.cc/YhRnWGXx)
-[![prototipo-desktop-3.jpg](https://i.postimg.cc/d1xf6CJH/prototipo-desktop-3.jpg)](https://postimg.cc/tZFDCYZW)
+[![prototipo-1.jpg](https://i.postimg.cc/28bDszJL/prototipo-1.jpg)](https://postimg.cc/qzTSndpp)
+
+
+[![prototipo-desktop-1.jpg](https://i.postimg.cc/W4jcq040/prototipo-desktop-1.jpg)](https://postimg.cc/G4M5Z8Gp)
+
 
 **Prototipo de Alta Fidelidad**
-[![protop-3-smartphone.jpg](https://i.postimg.cc/7hhtzJWr/protop-3-smartphone.jpg)](https://postimg.cc/1VxKhXSv)
+
+[![prototipo-alta-fidelidad.jpg](https://i.postimg.cc/Bns1z1D5/prototipo-alta-fidelidad.jpg)](https://postimgcc/4mLd7yWn)
+
 
 **Calculo**
 
