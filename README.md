@@ -120,3 +120,10 @@ Definiciòn de terminado:
 2. El diseño debe ser responsive
 3. La funcion de filtrar debe tener su test
 
+**Prototipo de Baja Fidelidad**
+
+**Prototitpo de Alta Fidelidad**
+
+[![CALCULO-SMARTPHNE.jpg](https://i.postimg.cc/Y0znyBTx/CALCULO-SMARTPHNE.jpg)](https://postimg.cc/wR3Q7Zqt)
+
+
