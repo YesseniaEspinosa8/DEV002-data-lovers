@@ -53,7 +53,6 @@ Definiciòn de terminado:
 [![catego-2.jpg](https://i.postimg.cc/xT3yQ3jx/catego-2.jpg)](https://postimg.cc/YhjmfgWY)
 
 
-
 **Visualizar**
 
 Yo **Como** usuaria **Quiero** visualizar los capitulos de la serie **Para** verlos por temporadas.
