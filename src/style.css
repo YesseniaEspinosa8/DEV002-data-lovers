@@ -8,10 +8,10 @@ body{
     background-size: cover;
 }
 
-p{
+a{
     text-align: top=0 left;
     font-family: Cambria;
+    line-height: 3cm;
     color: whitesmoke;
-    font-size: 30px;
-       
+    font-size: 25px;
 }
