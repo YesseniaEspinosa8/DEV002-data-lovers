@@ -122,6 +122,10 @@ Definiciòn de terminado:
 
 **Prototipo de Baja Fidelidad**
 
+[![calculo-1.jpg](https://i.postimg.cc/Qxc8nZK2/calculo-1.jpg)](https://postimg.cc/Ln6Fn7TD)
+
+[![calculo-2.jpg](https://i.postimg.cc/v8Vbcwh4/calculo-2.jpg)](https://postimg.cc/V5m3VT3w)
+
 **Prototitpo de Alta Fidelidad**
 
 [![CALCULO-SMARTPHNE.jpg](https://i.postimg.cc/Y0znyBTx/CALCULO-SMARTPHNE.jpg)](https://postimg.cc/wR3Q7Zqt)
