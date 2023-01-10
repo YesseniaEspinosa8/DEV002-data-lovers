@@ -1,0 +1,17 @@
+body{
+    height: 10%;
+    width: 100px;
+    background-image: url(https://cdn.dribbble.com/users/375862/screenshots/2854477/rickandmorty.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    text-align: top=0 left;
+    font-family: Cambria;
+    color: whitesmoke;
+    font-size: 30px;
+       
+}
