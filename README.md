@@ -48,7 +48,7 @@ Definiciòn de terminado:
 
 **Prototipo de Alta Fidelidad**
 
-[![protop-3-smartphone.jpg](https://i.postimg.cc/7hhtzJWr/protop-3-smartphone.jpg)](https://postimg.cc1VxKhXSv)
+[![Categorias-2.jpg](https://i.postimg.cc/Z5gdFhG1/Categorias-2.jpg)](https://postimg.cc/K1PjxCvN)
 
 [![catego-2.jpg](https://i.postimg.cc/xT3yQ3jx/catego-2.jpg)](https://postimg.cc/YhjmfgWY)
 
