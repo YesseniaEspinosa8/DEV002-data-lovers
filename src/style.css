@@ -1,17 +1,19 @@
-body{
-    height: 10%;
-    width: 100px;
-    background-image: url(https://cdn.dribbble.com/users/375862/screenshots/2854477/rickandmorty.gif);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+header{
+  display: flex;
+  height: 70px;
+  background-color: aquamarine;
+  justify-content: space-between;
 }
 
-a{
-    text-align: top=0 left;
-    font-family: Cambria;
-    line-height: 3cm;
-    color: whitesmoke;
-    font-size: 25px;
+body{
+  margin: 0;
+  background-color: blueviolet;
+  
 }
+.logo{
+  margin: 0 auto;
+  display: block;
+}
+
+
+
