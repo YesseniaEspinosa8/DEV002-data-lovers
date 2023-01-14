@@ -1,18 +1,27 @@
-header{
-  display: flex;
-  height: 70px;
-  background-color: aquamarine;
+a{
+  margin: 10px;
+  padding: 10px;
+  display: block;
   justify-content: space-between;
+  font-size: 30px;
+  font-family: fantasy;
+  color: cyan;  
+  
+  
 }
 
 body{
   margin: 0;
-  background-color: blueviolet;
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7f09246-ac57-40d3-97ac-4ed7562a8152/df3i4lx-0132abba-7479-4bd3-939c-9fca9c792cbc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3ZjA5MjQ2LWFjNTctNDBkMy05N2FjLTRlZDc1NjJhODE1MlwvZGYzaTRseC0wMTMyYWJiYS03NDc5LTRiZDMtOTM5Yy05ZmNhOWM3OTJjYmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J8DhZACK1XXgqaCSc4UvdjtXkq4RFL0PsfOQwsjp7bM);
+ background-position: center;
+ background-repeat: no-repeat;
   
 }
 .logo{
+
   margin: 0 auto;
   display: block;
+
 }
 
 

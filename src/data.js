@@ -7,6 +7,7 @@ export default class API {
   }
 }
 
+
 export const example = () => {
   return 'example';
 };
