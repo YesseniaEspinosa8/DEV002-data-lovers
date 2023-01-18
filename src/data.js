@@ -1,31 +1,16 @@
-export const extrayendoData = (datos) => {
-  return (Object.values(datos.data));
+// CALCULO***
+//export const promByScore = (data) => {
+  //const total = data.map(n => Number(m.rt_score)).reduce(function (a.b) { return a + b; }, 0);
+  //const promedio = total / dato.length
+  //return promedio;
+//}
+//Personajes
+export const filterbyCharacters = (string, data) => {
+  const results = data.filter(p => p.name [0] === string);
+  return results;
 }
 
-export const filtrandoInformacion = (selectYear, data) => {
-  const filtroYear = data.filter(year => year.tags.includes(selectYear));
-  return 'filtroYear';
+//Temporadas 
+export const sortByEpisodes = (data) => {
+  
 }
-
-export const ordenandoPersonajes = (sortOrder, data) => {
-  const orDatos = [...data].sort((a,b) =>{
-    if (a.name > b.name) {
-      if (sortOrder === "az"){
-        return 1;
-      }
-      else {
-        return -1;
-      }
-    }
-    if(a.name < b.name){
-      if(sortOrder === "za"){
-        return -1;
-      }
-      else {
-        return 1;
-      }
-    }
-    return 0;
-  });
-  return orDatos;
-};

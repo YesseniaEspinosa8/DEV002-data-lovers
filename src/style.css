@@ -33,7 +33,7 @@ body {
 
 }
 
-.logouno {
+.logo {
   margin: 0 auto;
   display: block;
 }
@@ -50,7 +50,9 @@ nav{
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  font-size: 10%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60%;
+  color: black;
   
 }
 
@@ -88,4 +90,20 @@ input{
   display: block;
   border-radius: 0 auto;
 
+}
+
+h2{
+  margin: 10px;
+  padding: 10px;
+  font-family: fantasy;
+  font-size: 200%;
+  color: greenyellow;
+}
+
+h3{
+  margin: 10px;
+  padding: 10px;
+  font-family: fantasy;
+  font-size: 200%;
+  color: greenyellow;
 }
