@@ -11,10 +11,17 @@ const displayCard =(dataRam) => {
     dataRam.forEach(personaje => {
         console.log(personaje.name)
         console.log(personaje.image)
+        console.log(personaje.species)
+        console.log(personaje.gender)
+        console.log(personaje.status)
         contenedor.innerHTML += `
         <div class="card">
         <img class="imagen" src="${personaje.image}"  alt="imagen del personaje"/>
         <p>${personaje.name}</p>
+        <p>${personaje.species}</p>
+        <p>${personaje.gender}</p>
+        <p>${personaje.status}</p>
+        
         </div>  
         `    
     })
