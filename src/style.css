@@ -92,8 +92,8 @@ h2 {
   margin: 10px;
   padding: 10px;
   font-family: fantasy;
-  font-size: 200%;
-  color: greenyellow;
+  font-size: 250%;
+  color: cyan;
 }
 
 h3 {
@@ -102,8 +102,8 @@ h3 {
   margin: 10px;
   padding: 10px;
   font-family: fantasy;
-  font-size: 200%;
-  color: greenyellow;
+  font-size: 250%;
+  color: cyan;
 }
 
 
@@ -116,27 +116,101 @@ h3 {
   font-size: inherit;
 }
 
-.Rick{
+.serie{
   margin: 10px;
   padding: 5px;
   width: 300px;
   height: 300px;
-  background-image: url(https://i.blogs.es/f340be/rick-y-morty-trailer-temporada-5-1619898958/840_560.jpeg);
+  background-image: url(https://i.pinimg.com/originals/3a/bf/60/3abf60580fb0529e6d78a4a7e973845f.gif);
   background-size: cover;
   border-radius: 50%;
   display: inline-block;
   font-size: inherit;
 }
-
-.RickDos{
+ .serieUno{
   margin: 10px;
   padding: 5px;
   width: 300px;
   height: 300px;
-  background-image: url(https://indiehoy.com/wp-content/uploads/2020/07/rick-morty.jpg);
+  background-image: url(https://www.icegif.com/wp-content/uploads/2022/06/icegif-529.gif);
   background-size: cover;
   border-radius: 50%;
   display: inline-block;
   font-size: inherit;
 
-}
+ }
+  .serieDos{
+    margin: 10px;
+  padding: 5px;
+  width: 300px;
+  height: 300px;
+  background-image: url(https://img.wattpad.com/d620b62f4067ca18b488d9f12555dd7a8c8bd5df/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7552544e69544e336761516379773d3d2d3438323239363834322e313465656233643838336164393232663936313433313436373938312e676966);
+  background-size: cover;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: inherit;
+
+  }
+
+  .serieTres{
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://thumbs.gfycat.com/AntiqueMeagerIslandcanary-max-1mb.gif);
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: inherit;
+  }
+
+  .serieCuatro{
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://media.tenor.com/u7dM7Zg6b94AAAAC/rick-and-morty-pink-spaceship.gif);
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: inherit;
+  }
+
+  .serieCinco{
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/originals/97/eb/d5/97ebd5c4910c4c7d22d4f73e57c92044.gif);
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: inherit;
+  }
+
+  .serieSeis{
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://media.tenor.com/HgO4oKUulvcAAAAM/lick-rick-and-morty.gif);
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: inherit;
+
+  }
+
+  .serieSiete{
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://pa1.narvii.com/6435/dee063da8a7050a00c27da690c08a2193b745d16_hq.gif);
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: inherit;
+  }
+
+

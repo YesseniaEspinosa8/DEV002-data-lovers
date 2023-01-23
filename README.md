@@ -28,12 +28,12 @@ Esta aplicacion web sera muy ùtil para los usuarios ya que les permitirà visua
 
 **Filtrar**
 
-Yo **Como** usuaria **Quiero** filtrar la informaciòn relevante de los personajes, **Para** tener màs informaciòn de ellos.
+Yo **Como** usuaria **Quiero** filtrar a mis personajes favoritos, **Para** encontrarlo màs ràpido.
 
 Criterios de Aceptaciòn:
-1. Que se muestran todos los personajes
-2. Que se muestren todos los episodios
-3. Que la informaciòn de los personajes sea la correcta y actualizada y que los episodios se muestren por temporada
+1. Que se muestren todos los personajes
+2. Que se filtre con un abecedario
+3. Que la informaciòn de los personajes sea la correcta y actualizada (foto, nombre, status y gènero)
 
 Definiciòn de terminado:
 1. Que el codigo este subido a Github
@@ -42,25 +42,23 @@ Definiciòn de terminado:
 
 **Prototipo de baja fidelidad**
 
-[![prototipo-3.jpg](https://i.postimg.cc/y84w20c2/prototipo-3.jpg)](https://postimg.cc/YhRnWGXx)
+[![personajes-1.jpg](https://i.postimg.cc/J0JNmWKf/personajes-1.jpg)](https://postimg.cc/H8Yc4Rqz)
 
-[![prototipo-desktop-3.jpg](https://i.postimg.cc/d1xf6CJH/prototipo-desktop-3.jpg)](https://postimg.cc/tZFDCYZW)
+[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
 
 **Prototipo de Alta Fidelidad**
 
-[![Categorias-2.jpg](https://i.postimg.cc/Z5gdFhG1/Categorias-2.jpg)](https://postimg.cc/K1PjxCvN)
 
-[![catego-2.jpg](https://i.postimg.cc/xT3yQ3jx/catego-2.jpg)](https://postimg.cc/YhjmfgWY)
 
 
 **Visualizar**
 
-Yo **Como** usuaria **Quiero** visualizar los capitulos de la serie **Para** verlos por temporadas.
+Yo **Como** usuaria **Quiero** visualizar a todos los personajes **Para** identificarlos y leer su informacion.
 
 Criterios de Aceptaciòn:
-1. Que se muestren todos los episodios
-2. Que se puedan reproducir
-3. Que esten ordenados por temporadas
+1. Que se muestren todos los personajes
+2. Que el usuario los reconozca con una imagen
+3. Que cada personaje tenga su infomacion relevante (nombre, status y gènero)
 
 Definición de Terminado:
 1. Que el codigo este subido a Github
@@ -69,13 +67,14 @@ Definición de Terminado:
 
 **Prototipo de baja fidelidad**
 
-[![prototipo-2.jpg](https://i.postimg.cc/0jzT1ft1/prototipo-2.jpg)](https://postimg.cc/XB0HwwSs)
+[![personajes-1.jpg](https://i.postimg.cc/J0JNmWKf/personajes-1.jpg)](https://postimg.cc/H8Yc4Rqz)
 
-[![prototipo-desktop-2.jpg](https://i.postimg.cc/y65qXMd1/prototipo-desktop-2.jpg)](https://postimg.ccXXwDnDdm)
+[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
+
 
 **Prototipo de Alta Fidelidad**
 
-[![protptipo-2-smartphone.jpg](https://i.postimg.cc/Hk1r0wS4/protptipo-2-smartphone.jpg)](https://postimg.cc/WhSpTkch)
+
 
 
 **Ordenar**
@@ -85,7 +84,7 @@ Yo **como** usuaria **quiero** ordenar a los personajes de manera alfabetica **p
 Criterios de Aceptación:
 1. Se muestran todos los personajes
 2. Que la informacion de los personajes sea la correcta y actualizada
-3. Que de acuerdo al nombre del personaje se ordene de A-> y Z-A
+3. Que cuando se seleccione una letra del alfabeto los personajes esten ordenados
 
 Definición de Terminado:
 1. Que el codigo este subido a Github
@@ -107,12 +106,12 @@ Definición de Terminado:
 
 **Calculo**
 
-Yo **Como** usuaria **Quiero** calcular la cantidad de episodios **Para** saber en cuantos episodios salen los personajes principales.
+Yo **Como** usuaria **Quiero** calcular el satus de cada personaje **Para** saber cuantos estan vivos o muertos.
 
 Criterios de Aceptaciòn:
 1. Que el calculo funcione
-2. Que se desplegue una lista de episodios en donde aparece el personaje
-3. Que se reproduzca el episodio seleccionado
+2. Que me de la informacion correcta
+3. Que el resultado del calculo sea visible para el usuario
 
 
 Definiciòn de terminado:

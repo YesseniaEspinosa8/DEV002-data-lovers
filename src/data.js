@@ -5,4 +5,10 @@ export const filterbyCharacters = (string, data) => {
   return results;
 }
 
+//Calculo
+function algoritmo ()
+{
+  let status, male, female, n;
+  status = parseInt()
+}
 
