@@ -28,7 +28,7 @@ const displayCard =(dataRam) => {
 
 } 
 
-displayCard(personajes)
+
 
 const btnA= document.getElementById("letraA");
 
