@@ -48,7 +48,8 @@ Definiciòn de terminado:
 
 **Prototipo de Alta Fidelidad**
 
-[![www-figma-1.jpg](https://i.postimg.cc/28s4ywsv/www-figma-1.jpg)](https://postimg.cc/7fNCQgYY)
+[![www-figma-1.jpg](https://i.postimg.cc/jSRkCR0y/www-figma-1.jpg)](https://postimg.cc/jLkhF0jj)
+
 
 
 **Visualizar**
