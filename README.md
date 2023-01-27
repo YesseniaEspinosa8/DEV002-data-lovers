@@ -28,12 +28,12 @@ Esta aplicacion web sera muy ùtil para los usuarios ya que les permitirà visua
 
 **Filtrar**
 
-Yo **Como** usuaria **Quiero** filtrar a mis personajes favoritos, **Para** encontrarlo màs ràpido.
+Yo **Como** usuaria **Quiero** filtrar por letra a los personajes, **Para** encontrar a mis personajes favoritos
 
 Criterios de Aceptaciòn:
 1. Que se muestren todos los personajes
-2. Que se filtre con un abecedario
-3. Que la informaciòn de los personajes sea la correcta y actualizada (foto, nombre, status y gènero)
+2. Que se filtre la data con un abecedario
+3. Que la informaciòn de los personajes sea la correcta y actualizada (foto, nombre, status, gènero y año de creacion del personaje)
 
 Definiciòn de terminado:
 1. Que el codigo este subido a Github
@@ -50,6 +50,7 @@ Definiciòn de terminado:
 
 [![www-figma-1.jpg](https://i.postimg.cc/jSRkCR0y/www-figma-1.jpg)](https://postimg.cc/jLkhF0jj)
 
+[![personajes-secc-2.jpg](https://i.postimg.cc/2yKXVKvh/personajes-secc-2.jpg)](https://postimg.cc/tnFzcDB4)
 
 
 **Visualizar**
@@ -57,9 +58,9 @@ Definiciòn de terminado:
 Yo **Como** usuaria **Quiero** visualizar a todos los personajes **Para** identificarlos y leer su informacion.
 
 Criterios de Aceptaciòn:
-1. Que se muestren todos los personajes
+1. Que se muestren todos los personajes cuando seleccione una letra
 2. Que el usuario los reconozca con una imagen
-3. Que cada personaje tenga su infomacion relevante (nombre, status y gènero)
+3. Que cada personaje tenga su infomacion relevante (nombre, status, gènero y año de creacion del personaje)
 
 Definición de Terminado:
 1. Que el codigo este subido a Github
@@ -75,15 +76,16 @@ Definición de Terminado:
 
 **Prototipo de Alta Fidelidad**
 
+[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
 
 
 
 **Ordenar**
 
-Yo **como** usuaria **quiero** ordenar a los personajes de manera alfabetica **para** verlos de  A-> y Z-A
+Yo **como** usuaria **quiero** que queden ordenados los personajes de manera alfabetica **para**  que sea mas facil la busqueda
 
 Criterios de Aceptación:
-1. Se muestran todos los personajes
+1. Que se muestren los botones con las letras del abecedario y sean clikeables
 2. Que la informacion de los personajes sea la correcta y actualizada
 3. Que cuando se seleccione una letra del alfabeto los personajes esten ordenados
 
@@ -102,7 +104,7 @@ Definición de Terminado:
 
 **Prototipo de Alta Fidelidad**
 
-[![prototipo-alta-fidelidad.jpg](https://i.postimg.cc/Bns1z1D5/prototipo-alta-fidelidad.jpg)](https://postimgcc/4mLd7yWn)
+[![secc-3-personajes.jpg](https://i.postimg.cc/WbKY6CyH/secc-3-personajes.jpg)](https://postimg.cc/N56xQJB6)
 
 
 **Calculo**
@@ -122,12 +124,10 @@ Definiciòn de terminado:
 
 **Prototipo de Baja Fidelidad**
 
-[![calculo-1.jpg](https://i.postimg.cc/Qxc8nZK2/calculo-1.jpg)](https://postimg.cc/Ln6Fn7TD)
 
-[![calculo-2.jpg](https://i.postimg.cc/v8Vbcwh4/calculo-2.jpg)](https://postimg.cc/V5m3VT3w)
 
 **Prototitpo de Alta Fidelidad**
 
-[![CALCULO-SMARTPHNE.jpg](https://i.postimg.cc/Y0znyBTx/CALCULO-SMARTPHNE.jpg)](https://postimg.cc/wR3Q7Zqt)
+
 
 
