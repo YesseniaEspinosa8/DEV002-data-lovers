@@ -20,7 +20,7 @@ contándonos cómo fue tu proceso de diseño y cómo crees que el producto resue
 el problema (o problemas) que tiene tu usuario:
 
 Mi proceso de diseño fue todo un reto, empece eligiendo el set de datos con el que queria trabajar, despues de revisar los sets decidÌ trabajar con "Rick and Morty", siempre me parecio interesante esa serie y quise trabajar en algo que me gusta.
-Empecè investigando màs acerca de la serie y los personajes en general, luego identifique a los potenciales usuarios, en este caso los fandoms. Al final entendì que los usuarios necesitan saber la informacion principal de los personajes, y reproducir los episisodios.
+Empecè investigando màs acerca de la serie y los personajes en general, luego identifique a los potenciales usuarios, en este caso los fandoms. Al final entendì que los usuarios necesitan saber la informacion principal de los personajes y tener ordenada la data por abecedario.
 
 Esta aplicacion web sera muy ùtil para los usuarios ya que les permitirà visualizar, filtrar, ordenar y mostrar informaciòn màs relevante acerca de Rick and Morty.
 
