@@ -5,10 +5,30 @@ export const filterbyCharacters = (string, data) => {
   return results;
 }
 
-//Calculo
-function algoritmo ()
-{
-  let status, male, female, n;
-  status = parseInt()
-}
+export const ordenarCharacters = (sortOrder, data, sortBy) => {
+  const results = data.sort((a,b) => {
+    if(a[sortBy] > b[sortBy] ){
+      if(sortOrder === "asc-desc"){
+        return 1;
+      }
+      else{
+        return -1;
+      }
+    }
+    if(a[sortBy] < b[sortBy]) {
+      if (sortOrder === "desc-asc"){
+        return -1;
+      }
+      else{
+        return 1;
+      }
+    }
+    return 0;
+  });
+  
+  return results;
+  
+};
+
+// calcular cuantos personajes estan vivos y muertos
 
