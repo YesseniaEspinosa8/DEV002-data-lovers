@@ -76,7 +76,7 @@ Definición de Terminado:
 
 **Prototipo de Alta Fidelidad**
 
-[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
+[![personajes-secc-2.jpg](https://i.postimg.cc/2yKXVKvh/personajes-secc-2.jpg)](https://postimg.cc/tnFzcDB4)
 
 
 
