@@ -1,11 +1,14 @@
 // Manejor del DOM
 import data from './data/rickandmorty/rickandmorty.js';
-import { filterbyCharacters, ordenarCharacters } from './data.js';
+import { filterbyCharacters, ordenarCharacters, calcularStatus } from './data.js';
 
 console.log(data.results)
 const personajes = data.results
 const contenedor = document.getElementById("contenedor");
 console.log(contenedor)
+
+const calcular = document.getElementById("calcular");
+
 
 //Imprimiendo cards en la categoria personajes
 const displayCard =(dataRam) => {
@@ -24,9 +27,10 @@ const displayCard =(dataRam) => {
         
         </div>  
         `    
-    })
+    })   
+}
 
-} 
+
 let personajesaMostrar;
 const ordenar= document.getElementById("ordenar");
 ordenar.addEventListener("change", (evento)=> {
@@ -37,9 +41,6 @@ ordenar.addEventListener("change", (evento)=> {
 });
 
 
-
-
-
 const btnA= document.getElementById("letraA");
 
 btnA.addEventListener("click", () => {
@@ -47,6 +48,8 @@ btnA.addEventListener("click", () => {
     personajesaMostrar=resultsA
     //console.log(resultsA)
     displayCard(resultsA)
+    calcular.innerHTML = calcularStatus(resultsA);
+    
 })
 
 
@@ -59,6 +62,7 @@ btnB.addEventListener("click", () => {
     personajesaMostrar=resultsB
    // console.log(resultsB)
     displayCard(resultsB)
+    calcular.innerHTML = calcularStatus(resultsB);
 })
 
 
@@ -70,6 +74,7 @@ btnC.addEventListener("click", () => {
     personajesaMostrar=resultsC
     //console.log(resultsC)
     displayCard(resultsC)
+    calcular.innerHTML = calcularStatus(resultsC);
 })
 
 
@@ -81,6 +86,7 @@ btnD.addEventListener("click", () => {
     personajesaMostrar=resultsD
     //console.log(resultsD)
     displayCard(resultsD)
+    calcular.innerHTML = calcularStatus(resultsD);
 })
 
 
@@ -92,6 +98,7 @@ btnE.addEventListener("click", () => {
     personajesaMostrar=resultsE
     //console.log(resultsE)
     displayCard(resultsE)
+    calcular.innerHTML = calcularStatus(resultsE);
 })
 
 
@@ -103,6 +110,7 @@ btnF.addEventListener("click", () => {
     personajesaMostrar=resultsF
     //console.log(resultsF)
     displayCard(resultsF)
+    calcular.innerHTML = calcularStatus(resultsF);
 })
 
 
@@ -114,6 +122,7 @@ btnG.addEventListener("click", () => {
     personajesaMostrar=resultsG
     //console.log(resultsG)
     displayCard(resultsG)
+    calcular.innerHTML = calcularStatus(resultsG);
 })
 
 
@@ -125,6 +134,7 @@ btnH.addEventListener("click", () => {
     personajesaMostrar=resultsH
     //console.log(resultsH)
     displayCard(resultsH)
+    calcular.innerHTML = calcularStatus(resultsH);
 })
 
 
@@ -136,6 +146,7 @@ btnI.addEventListener("click", () => {
     personajesaMostrar=resultsI
     //console.log(resultsI)
     displayCard(resultsI)
+    calcular.innerHTML = calcularStatus(resultsI);
 })
 
 
@@ -147,6 +158,7 @@ btnJ.addEventListener("click", () => {
     personajesaMostrar=resultsJ
     //console.log(resultsJ)
     displayCard(resultsJ)
+    calcular.innerHTML = calcularStatus(resultsJ);
 })
 
 
@@ -158,6 +170,7 @@ btnK.addEventListener("click", () => {
     personajesaMostrar=resultsK
     //console.log(resultsK)
     displayCard(resultsK)
+    calcular.innerHTML = calcularStatus(resultsK);
 })
 
 
@@ -169,6 +182,7 @@ btnL.addEventListener("click", () => {
     personajesaMostrar=resultsL
     //console.log(resultsL)
     displayCard(resultsL)
+    calcular.innerHTML = calcularStatus(resultsL);
 })
 
 
@@ -180,6 +194,7 @@ btnM.addEventListener("click", () => {
     personajesaMostrar=resultsM
     //console.log(resultsM)
     displayCard(resultsM)
+    calcular.innerHTML = calcularStatus(resultsM);
 })
 
 
@@ -191,6 +206,7 @@ btnN.addEventListener("click", () => {
     personajesaMostrar=resultsN
     //console.log(resultsN)
     displayCard(resultsN)
+    calcular.innerHTML = calcularStatus(resultsN);
 })
 
 
@@ -202,6 +218,7 @@ btnO.addEventListener("click", () => {
     personajesaMostrar=resultsO
     //console.log(resultsO)
     displayCard(resultsO)
+    calcular.innerHTML = calcularStatus(resultsO);
 })
 
 
@@ -213,6 +230,7 @@ btnP.addEventListener("click", () => {
     personajesaMostrar=resultsP
     //console.log(resultsP)
     displayCard(resultsP)
+    calcular.innerHTML = calcularStatus(resultsP);
 })
 
 
@@ -224,6 +242,7 @@ btnQ.addEventListener("click", () => {
     personajesaMostrar=resultsQ
     //console.log(resultsQ)
     displayCard(resultsQ)
+    calcular.innerHTML = calcularStatus(resultsQ);
 })
 
 
@@ -235,6 +254,7 @@ btnR.addEventListener("click", () => {
     personajesaMostrar=resultsR
     //console.log(resultsR)
     displayCard(resultsR)
+    calcular.innerHTML = calcularStatus(resultsR);
 })
 
 
@@ -246,6 +266,7 @@ btnS.addEventListener("click", () => {
     personajesaMostrar=resultsS
     //console.log(resultsS)
     displayCard(resultsS)
+    calcular.innerHTML = calcularStatus(resultsS);
 })
 
 
@@ -257,6 +278,7 @@ btnT.addEventListener("click", () => {
     personajesaMostrar=resultsT
     //console.log(resultsT)
     displayCard(resultsT)
+    calcular.innerHTML = calcularStatus(resultsT);
 })
 
 
@@ -268,6 +290,7 @@ btnU.addEventListener("click", () => {
     personajesaMostrar=resultsU
     //console.log(resultsU)
     displayCard(resultsU)
+    calcular.innerHTML = calcularStatus(resultsU);
 })
 
 
@@ -279,6 +302,7 @@ btnV.addEventListener("click", () => {
     personajesaMostrar=resultsV
     //console.log(resultsV)
     displayCard(resultsV)
+    calcular.innerHTML = calcularStatus(resultsV);
 })
 
 
@@ -290,6 +314,7 @@ btnW.addEventListener("click", () => {
     personajesaMostrar=resultsW
     //console.log(resultsW)
     displayCard(resultsW)
+    calcular.innerHTML = calcularStatus(resultsW);
 })
 
 
@@ -301,6 +326,7 @@ btnX.addEventListener("click", () => {
     personajesaMostrar=resultsX
     //console.log(resultsX)
     displayCard(resultsX)
+    calcular.innerHTML = calcularStatus(resultsX);
 })
 
 
@@ -312,6 +338,7 @@ btnY.addEventListener("click", () => {
     personajesaMostrar=resultsY
     //console.log(resultsY)
     displayCard(resultsY)
+    calcular.innerHTML = calcularStatus(resultsY);
 })
 
 
@@ -323,6 +350,7 @@ btnZ.addEventListener("click", () => {
     personajesaMostrar=resultsZ
     //console.log(resultsZ)
     displayCard(resultsZ)
+    calcular.innerHTML = calcularStatus(resultsZ);
 })
 
 

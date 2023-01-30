@@ -30,5 +30,11 @@ export const ordenarCharacters = (sortOrder, data, sortBy) => {
   
 };
 
-// calcular cuantos personajes estan vivos y muertos
+// calcular el status de los personajes "Alive and Dead"
+
+export const calcularStatus = (data) => {
+const alive = data.filter(s => s.status === "alive").length;
+const dead = data.filter(s => s.status === "dead").length;
+return "El numero de personajes vivos es: " + alive + ". El numero de personajes muertos es: " + dead +"."
+}
 
