@@ -217,8 +217,16 @@ h3 {
   font-size: inherit;
 }
 
-.calcular{
+#ordenar{
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+}
+
+#calcular{
  text-align: center;
  color: aliceblue;
+ font-size: 17px;
+ font-family: Arial, Helvetica, sans-serif;
   
 }

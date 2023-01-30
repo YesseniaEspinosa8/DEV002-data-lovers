@@ -48,6 +48,7 @@ btnA.addEventListener("click", () => {
     personajesaMostrar=resultsA
     //console.log(resultsA)
     displayCard(resultsA)
+    console.log(resultsA)
     calcular.innerHTML = calcularStatus(resultsA);
     
 })

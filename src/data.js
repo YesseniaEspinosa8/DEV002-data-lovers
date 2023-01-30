@@ -33,8 +33,9 @@ export const ordenarCharacters = (sortOrder, data, sortBy) => {
 // calcular el status de los personajes "Alive and Dead"
 
 export const calcularStatus = (data) => {
-const alive = data.filter(s => s.status === "alive").length;
-const dead = data.filter(s => s.status === "dead").length;
-return "El numero de personajes vivos es: " + alive + ". El numero de personajes muertos es: " + dead +"."
+const alive = data.filter(s => s.status === "Alive").length;
+const dead = data.filter(s => s.status === "Dead").length;
+const unknown = data.filter(s => s.status === "unknown").length;
+return "El numero de personajes vivos es: " + alive + ". El numero de personajes muertos es: " + dead +". El numero de personajes con status indefinido es: " + unknown + "." 
 }
 
