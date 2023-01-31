@@ -6,6 +6,7 @@ export const filterbyCharacters = (string, data) => {
 }
 
 export const ordenarCharacters = (sortOrder, data, sortBy) => {
+  
   const results = data.sort((a,b) => {
     if(a[sortBy] > b[sortBy] ){
       if(sortOrder === "asc-desc"){
