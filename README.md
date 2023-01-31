@@ -1,28 +1,22 @@
 # Data Lovers
 
-**Preámbulo**
-
-Según Forbes, el 90% de la data que existe hoy ha sido creada durante los últimos dos años. Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
-
-No obstante, los datos por sí mismos son de poca utilidad. Para que esas grandes cantidades de datos se conviertan en información fácil de leer para los usuarios, necesitamos entender y procesar estos datos. Una manera simple de hacerlo es creando interfaces y visualizaciones
-
 **Resumen del proyecto**
 
 En este proyecto construirás una página web para visualizar un conjunto (set) de datos que se adecúe a lo que descubras que tu usuario necesita.
 
 Como entregable final tendrás una página web que permita visualizar la data, filtrarla, ordenarla y hacer algún cálculo agregado. Con cálculo agregado nos referimos a distintos cálculos que puedes hacer con la data para mostrar información aún más relevante para los usuarios (promedio, el valor máximo o mínimo, etc).
 
-**Criterios de aceptación mínimos del proyecto**
+
 ### Definición del producto
 
 Documenta brevemente tu trabajo en el archivo `README.md` de tu repositorio,
 contándonos cómo fue tu proceso de diseño y cómo crees que el producto resuelve
 el problema (o problemas) que tiene tu usuario:
 
-Mi proceso de diseño fue todo un reto, empece eligiendo el set de datos con el que queria trabajar, despues de revisar los sets decidÌ trabajar con "Rick and Morty", siempre me parecio interesante esa serie y quise trabajar en algo que me gusta.
-Empecè investigando màs acerca de la serie y los personajes en general, luego identifique a los potenciales usuarios, en este caso los fandoms. Al final entendì que los usuarios necesitan saber la informacion principal de los personajes y tener ordenada la data por abecedario.
+Mi proceso de diseño fue todo un reto, empece eligiendo el set de datos con el que queria trabajar, despues de revisar los sets decidi trabajar con "Rick and Morty", siempre me parecio interesante esa serie y quise trabajar en algo que me gusta.
+Empece leyendo la documentacion de la API y las indicaciones que aparecian, luego investigue que es lo que mas le gusta a le gente que sigue esta serie e identifique a los potenciales usuarios, en este caso los fandoms. Al final entendi que los usuarios necesitan saber la informacion principal de los personajes y tener ordenada la data por abecedario.
 
-Esta aplicacion web sera muy ùtil para los usuarios ya que les permitirà visualizar, filtrar, ordenar y mostrar informaciòn màs relevante acerca de Rick and Morty.
+Esta aplicacion web sera muy util para los usuarios ya que les permitirà visualizar, filtrar, ordenar y mostrar informaciòn mas relevante acerca de Rick and Morty.
 
 ## Historias de Usuario
 
