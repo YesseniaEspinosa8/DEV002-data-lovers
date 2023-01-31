@@ -47,33 +47,6 @@ Definiciòn de terminado:
 [![personajes-secc-2.jpg](https://i.postimg.cc/2yKXVKvh/personajes-secc-2.jpg)](https://postimg.cc/tnFzcDB4)
 
 
-**Visualizar**
-
-Yo **Como** usuaria **Quiero** visualizar a todos los personajes **Para** identificarlos y leer su informacion.
-
-Criterios de Aceptaciòn:
-1. Que se muestren todos los personajes cuando seleccione una letra
-2. Que el usuario pueda visualizar al personaje con una imagen
-3. Que cada personaje tenga su infomacion relevante (nombre, status, gènero y año de creacion del personaje)
-
-Definición de Terminado:
-1. Que el codigo este subido a Github
-2. El diseño debe ser responsive
-
-
-**Prototipo de baja fidelidad**
-
-[![personajes-1.jpg](https://i.postimg.cc/J0JNmWKf/personajes-1.jpg)](https://postimg.cc/H8Yc4Rqz)
-
-[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
-
-
-**Prototipo de Alta Fidelidad**
-
-[![personajes-secc-2.jpg](https://i.postimg.cc/2yKXVKvh/personajes-secc-2.jpg)](https://postimg.cc/tnFzcDB4)
-
-
-
 **Ordenar**
 
 Yo **como** usuaria **quiero** que queden ordenados los personajes de manera alfabetica **para**  que sea mas facil la busqueda
@@ -99,6 +72,33 @@ Definición de Terminado:
 **Prototipo de Alta Fidelidad**
 
 [![secc-3-personajes.jpg](https://i.postimg.cc/WbKY6CyH/secc-3-personajes.jpg)](https://postimg.cc/N56xQJB6)
+
+
+**Visualizar**
+
+Yo **Como** usuaria **Quiero** visualizar a todos los personajes **Para** identificarlos y leer su informacion.
+
+Criterios de Aceptaciòn:
+1. Que se muestren todos los personajes cuando seleccione una letra
+2. Que el usuario pueda visualizar al personaje con una imagen
+3. Que cada personaje tenga su infomacion relevante (nombre, status, gènero y año de creacion del personaje)
+
+Definición de Terminado:
+1. Que el codigo este subido a Github
+2. El diseño debe ser responsive
+
+
+**Prototipo de baja fidelidad**
+
+[![personajes-1.jpg](https://i.postimg.cc/J0JNmWKf/personajes-1.jpg)](https://postimg.cc/H8Yc4Rqz)
+
+[![personajes-2.jpg](https://i.postimg.cc/T3QrT0q3/personajes-2.jpg)](https://postimg.cc/JsDyqb2f)
+
+
+**Prototipo de Alta Fidelidad**
+
+[![personajes-secc-2.jpg](https://i.postimg.cc/2yKXVKvh/personajes-secc-2.jpg)](https://postimg.cc/tnFzcDB4)
+
 
 
 **Calculo**
