@@ -109,7 +109,7 @@ Definición de Terminado:
 
 **Calculo**
 
-Yo **Como** usuaria **Quiero** calcular el satus de cada personaje **Para** saber cuantos estan vivos o muertos.
+Yo **Como** usuaria **Quiero** calcular el satus de cada personaje **Para** saber cuantos estan vivos o muertos e indefinidos
 
 Criterios de Aceptaciòn:
 1. Que el calculo funcione
@@ -127,6 +127,8 @@ Definiciòn de terminado:
 
 
 **Prototitpo de Alta Fidelidad**
+
+[![calculo.jpg](https://i.postimg.cc/fT7gkPyG/calculo.jpg)](https://postimg.cc/nCz1P0v2)
 
 
 
