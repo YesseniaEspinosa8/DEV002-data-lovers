@@ -59,7 +59,7 @@ Criterios de Aceptaciòn:
 Definición de Terminado:
 1. Que el codigo este subido a Github
 2. El diseño debe ser responsive
-3. La funcion de visualizar debe tener su test
+
 
 **Prototipo de baja fidelidad**
 
