@@ -124,7 +124,9 @@ Definiciòn de terminado:
 
 **Prototipo de Baja Fidelidad**
 
+[![calculo-1.jpg](https://i.postimg.cc/43NJWMmt/calculo-1.jpg)](https://postimg.cc/yDt4dLhY)
 
+[![calculo-2.jpg](https://i.postimg.cc/28QrrmWh/calculo-2.jpg)](https://postimg.cc/rKwvNBQw)
 
 **Prototitpo de Alta Fidelidad**
 
