@@ -2,10 +2,10 @@
 import data from './data/rickandmorty/rickandmorty.js';
 import { filterbyCharacters, ordenarCharacters, calcularStatus } from './data.js';
 
-console.log(data.results)
+//console.log(data.results)
 const personajes = data.results
 const contenedor = document.getElementById("contenedor");
-console.log(contenedor)
+//console.log(contenedor)
 
 const calcular = document.getElementById("calcular");
 
@@ -15,7 +15,7 @@ const displayCard =(dataRam) => {
     contenedor.innerHTML= ""
     dataRam.forEach(personaje => {
         
-        console.log(personaje.created)
+       // console.log(personaje.created)
         contenedor.innerHTML += `
         <div class="card">
         <img class="imagen" src="${personaje.image}"  alt="imagen del personaje"/>
@@ -35,7 +35,7 @@ let personajesaMostrar;
 const ordenar= document.getElementById("ordenar");
 ordenar.addEventListener("change", (evento)=> {
     const orderData =  ordenarCharacters(evento.target.value, personajesaMostrar,"created")
-    console.log(evento.target.value, data.results)
+    //console.log(evento.target.value, data.results)
     displayCard(orderData)
   
 });
@@ -48,7 +48,7 @@ btnA.addEventListener("click", () => {
     personajesaMostrar=resultsA
     //console.log(resultsA)
     displayCard(resultsA)
-    console.log(resultsA)
+    //console.log(resultsA)
     calcular.innerHTML = calcularStatus(resultsA);
     
 })
