@@ -22,7 +22,7 @@ Esta aplicacion web sera muy util para los usuarios ya que les permitirà visual
 
 **Filtrar**
 
-Yo **Como** usuaria **Quiero** filtrar por letra a los personajes, **Para** encontrar a mis personajes favoritos
+Yo **Como** usuaria **Quiero** filtrar por letra a los personajes, **Para** encontrarlos ordenadamente.
 
 Criterios de Aceptaciòn:
 1. Que se muestren todos los personajes
@@ -53,7 +53,7 @@ Yo **Como** usuaria **Quiero** visualizar a todos los personajes **Para** identi
 
 Criterios de Aceptaciòn:
 1. Que se muestren todos los personajes cuando seleccione una letra
-2. Que el usuario los reconozca con una imagen
+2. Que el usuario pueda visualizar al personaje con una imagen
 3. Que cada personaje tenga su infomacion relevante (nombre, status, gènero y año de creacion del personaje)
 
 Definición de Terminado:
